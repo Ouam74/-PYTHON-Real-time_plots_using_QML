@@ -9,7 +9,7 @@ ApplicationWindow {
     width: 1200
     height: 700
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Real time plotter, Olivier Pelhatre January 2021")
     
     property var xySeries;   
 
